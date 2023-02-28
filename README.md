@@ -1,4 +1,4 @@
-# simulateInfection
+# **Model disease propagation for a particular virus**
 
 The Center for Disease Control and Prevention is trying to model disease propagation for a particular virus. The virus is known to transmit through human contact and the study aims to simulate how various towns in a region can get infected by the movement of people. The scientists have come up with the following simple model for this scenario:
 
